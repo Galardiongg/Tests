@@ -1,0 +1,455 @@
+2020-02-11 12:15:19,314 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:15:31,147 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:15:31,238 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 12:15:31,297 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 12:15:34,489 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 12:15:36,991 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 12:15:38,561 NonParallelWorker INFO Framework.ContactsPage Get message text: Поле 'E-mail' должно быть заполнено!
+Поле 'Тема' должно быть заполнено!
+Поле 'Ваше сообщение' должно быть заполнено!
+Подтвердите что вы не робот
+2020-02-11 12:15:38,832 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:15:48,041 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:15:48,042 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 12:15:48,080 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 12:15:50,648 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 12:15:53,715 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Topic: Developer topic
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-11 12:15:54,195 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 12:16:21,027 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:21,031 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:21,032 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2020-02-11 12:16:21,034 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 12:16:21,043 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:21,044 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:21,045 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-11 12:16:21,046 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 12:16:21,049 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:21,050 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:21,051 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUserWithIncorrectPassword unit test.
+2020-02-11 12:16:21,053 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 12:16:21,059 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:21,060 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:21,061 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2020-02-11 12:16:21,062 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 12:16:21,064 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:21,065 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:21,066 NonParallelWorker INFO Framework.Test.OrderTest Start SendOrderPositiveTest unit test.
+2020-02-11 12:16:21,068 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 12:16:21,074 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:21,075 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:21,076 NonParallelWorker INFO Framework.Test.OrderTest Start SendOrderWithZeroExperience unit test.
+2020-02-11 12:16:21,077 NonParallelWorker INFO Framework.Pages.OrderRegistrationPage Open order registration page
+2020-02-11 12:16:21,085 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:21,089 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:21,090 NonParallelWorker INFO Framework.Test.OrderTest Start SimilarStartDateAndEndDate unit test.
+2020-02-11 12:16:21,092 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 12:16:21,095 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:21,096 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:21,096 NonParallelWorker INFO Framework.Test.OrderTest Start StartDateLeaseEndDate unit test.
+2020-02-11 12:16:21,097 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 12:16:28,532 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:16:38,205 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:16:38,208 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 12:16:38,238 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 12:16:40,920 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 12:16:43,957 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Topic: Developer topic
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-11 12:16:44,431 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 12:16:45,693 NonParallelWorker INFO Framework.ContactsPage Get message text: Подтвердите что вы не робот
+2020-02-11 12:17:21,473 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:17:31,133 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:17:31,138 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2020-02-11 12:17:31,145 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 12:17:34,005 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: incorrecttest.epam@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2020-02-11 12:17:34,291 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2020-02-11 12:17:35,748 NonParallelWorker INFO Framework.Pages.LoginPage Get message text: Неверный логин или пароль.
+2020-02-11 12:17:44,448 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 12:17:54,132 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 12:17:54,136 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-11 12:17:54,145 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 12:17:56,141 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.rad@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2020-02-11 12:17:56,538 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2020-02-11 12:18:30,981 NonParallelWorker INFO Framework.Pages.LoginPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-11 14:38:48,663 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:38:59,924 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:38:59,927 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 14:38:59,963 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 14:39:02,659 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 14:39:06,654 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 14:39:08,293 NonParallelWorker INFO Framework.ContactsPage Get message text: Поле 'E-mail' должно быть заполнено!
+Поле 'Тема' должно быть заполнено!
+Поле 'Ваше сообщение' должно быть заполнено!
+Подтвердите что вы не робот
+2020-02-11 14:39:08,439 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:39:17,538 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:39:17,539 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 14:39:17,690 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 14:39:20,272 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 14:39:23,803 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Topic: Developer topic
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-11 14:39:38,440 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:39:38,442 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:39:38,443 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2020-02-11 14:39:38,445 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 14:40:06,481 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:40:06,484 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:40:06,486 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-11 14:40:06,488 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 14:40:34,518 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:40:34,519 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:40:34,520 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUserWithIncorrectPassword unit test.
+2020-02-11 14:40:34,521 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 14:41:02,555 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:41:02,556 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:41:02,557 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2020-02-11 14:41:02,558 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 14:41:30,588 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:41:30,590 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:41:30,591 NonParallelWorker INFO Framework.Test.OrderTest Start SendOrderPositiveTest unit test.
+2020-02-11 14:41:30,592 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 14:41:58,618 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:41:58,619 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:41:58,621 NonParallelWorker INFO Framework.Test.OrderTest Start SendOrderWithZeroExperience unit test.
+2020-02-11 14:41:58,622 NonParallelWorker INFO Framework.Pages.OrderRegistrationPage Open order registration page
+2020-02-11 14:42:26,653 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:42:26,654 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:42:26,656 NonParallelWorker INFO Framework.Test.OrderTest Start SimilarStartDateAndEndDate unit test.
+2020-02-11 14:42:26,657 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 14:42:54,690 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 14:42:54,691 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 14:42:54,692 NonParallelWorker INFO Framework.Test.OrderTest Start StartDateLeaseEndDate unit test.
+2020-02-11 14:42:54,693 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 15:11:27,723 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 15:11:37,410 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 15:11:37,413 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 15:11:37,559 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 15:11:40,836 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 15:11:43,912 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Topic: 
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: 
+
+2020-02-11 15:11:56,828 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 15:12:06,488 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 15:12:06,491 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2020-02-11 15:12:06,501 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 15:12:08,661 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: incorrecttest.epam@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2020-02-11 15:12:09,085 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2020-02-11 15:12:10,224 NonParallelWorker INFO Framework.Pages.LoginPage Get message text: Неверный логин или пароль.
+2020-02-11 15:12:14,827 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 15:12:24,477 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 15:12:24,480 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-11 15:12:24,490 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 15:12:26,827 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.rad@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2020-02-11 15:12:27,243 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2020-02-11 15:12:33,076 NonParallelWorker INFO Framework.Pages.LoginPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-11 15:12:38,997 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 15:12:48,659 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 15:12:48,662 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUserWithIncorrectPassword unit test.
+2020-02-11 15:12:48,672 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 15:12:51,344 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: incorrecttest.epam@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2020-02-11 15:12:51,741 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2020-02-11 15:12:53,049 NonParallelWorker INFO Framework.Pages.LoginPage Get message text: Неверный логин или пароль.
+2020-02-11 15:12:58,867 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 15:13:08,533 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 15:13:08,539 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2020-02-11 15:13:08,545 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 15:13:12,175 NonParallelWorker INFO Framework.StartPage Submit filter (ClickSubmitButton)
+2020-02-11 15:13:20,921 NonParallelWorker INFO Framework.Pages.OrdersListPage Open orders list page
+2020-02-11 15:13:20,923 NonParallelWorker INFO Framework.Pages.OrdersListPage Reset filters
+2020-02-11 18:05:19,737 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 18:05:30,243 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 18:05:30,248 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 18:05:30,345 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 18:05:32,802 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 18:05:56,659 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 18:05:56,663 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 18:05:56,665 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2020-02-11 18:05:56,672 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 18:05:56,682 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 18:05:56,686 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 18:05:56,689 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-11 18:05:56,693 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 18:05:56,703 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 18:05:56,706 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 18:05:56,708 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUserWithIncorrectPassword unit test.
+2020-02-11 18:05:56,710 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 18:05:56,717 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 18:05:56,722 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 18:05:56,725 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2020-02-11 18:05:56,726 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 18:43:13,140 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 18:43:35,886 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 18:43:46,086 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 18:43:46,094 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 18:43:46,113 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 18:43:48,006 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 18:47:26,720 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 18:47:36,892 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 18:47:36,896 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 18:47:36,913 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 18:47:38,830 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 18:47:41,017 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 19:31:36,503 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 19:31:46,997 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 19:31:47,003 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 19:31:47,023 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 19:31:49,499 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 19:33:29,315 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 19:33:39,335 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 19:33:39,340 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 19:33:39,356 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 19:33:41,367 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 19:34:11,898 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 19:34:21,943 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 19:34:21,948 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 19:34:21,962 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 19:34:23,582 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 19:37:40,442 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 19:37:50,083 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 19:37:50,085 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 19:37:50,092 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 19:37:51,304 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:21:11,751 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:21:21,559 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:21:21,658 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:21:21,668 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:21:23,613 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:21:26,146 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:21:42,059 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:21:42,061 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:21:42,062 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 20:21:42,090 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:21:42,103 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:21:42,104 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:21:42,105 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2020-02-11 20:21:42,106 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 20:21:42,109 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:21:42,110 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:21:42,112 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-11 20:21:42,115 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 20:21:42,119 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:21:42,120 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:21:42,120 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUserWithIncorrectPassword unit test.
+2020-02-11 20:21:42,121 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-11 20:21:42,124 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:21:42,125 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:21:42,126 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2020-02-11 20:21:42,127 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:36:53,322 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:37:03,359 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:37:03,362 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:37:03,375 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:37:05,951 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:37:08,016 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:37:29,767 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:37:39,474 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:37:39,479 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:37:39,494 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:37:40,763 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:37:42,684 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:42:14,493 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:42:24,190 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:42:24,193 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:42:24,200 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:42:25,491 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:42:27,477 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:42:28,351 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 20:43:23,034 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:43:30,712 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:43:30,715 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:43:30,721 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:43:32,815 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:43:34,683 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:43:35,534 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 20:44:04,552 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:44:14,213 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:44:14,216 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:44:14,226 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:44:15,518 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:44:15,914 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:44:16,791 NonParallelWorker INFO Framework.ContactsPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-11 20:45:15,751 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:45:25,414 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:45:25,416 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:45:25,425 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:45:26,903 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:45:28,925 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:45:29,704 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 20:45:44,932 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:45:54,616 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:45:54,619 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:45:54,627 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:45:55,980 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:45:57,417 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:45:58,553 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 20:56:48,744 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:56:58,423 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:56:58,426 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:56:58,436 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:57:00,083 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:57:02,990 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:57:04,121 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 20:58:01,738 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 20:58:11,426 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 20:58:11,428 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 20:58:11,439 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 20:58:14,110 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 20:58:18,090 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 20:58:19,021 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 21:00:34,009 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 21:00:43,726 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 21:00:43,728 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 21:00:43,737 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 21:00:44,879 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 21:00:46,402 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 21:00:52,875 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 21:00:58,377 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 21:01:08,023 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 21:01:08,025 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 21:01:08,035 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 21:01:09,220 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 21:01:11,172 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 21:01:12,039 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 22:03:53,151 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 22:04:03,748 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 22:04:03,754 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 22:04:03,904 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 22:04:05,901 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 22:04:08,469 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-11 22:10:05,705 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 22:10:16,341 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 22:10:16,347 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 22:10:16,418 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 22:10:18,369 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 22:10:20,863 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-11 22:11:52,242 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 22:12:02,517 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 22:12:02,522 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 22:12:02,588 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 22:12:04,453 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 22:12:07,797 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-11 22:12:08,557 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 22:25:56,917 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 22:26:07,247 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 22:26:07,252 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-11 22:26:07,299 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 22:26:09,206 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 22:26:13,202 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 22:26:14,084 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 22:26:14,405 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 22:26:23,844 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 22:26:23,846 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 22:26:24,050 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 22:26:25,816 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 22:26:27,446 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-11 22:26:29,362 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 22:26:29,939 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 22:26:31,155 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 22:26:46,478 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 22:33:09,224 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 22:33:19,513 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 22:33:19,519 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-11 22:33:19,587 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 22:33:21,782 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 22:33:24,463 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-11 22:33:26,230 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-11 22:33:27,026 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-11 23:58:58,651 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 23:59:29,971 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-11 23:59:38,655 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-11 23:59:38,659 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-11 23:59:38,815 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-11 23:59:40,627 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-11 23:59:42,755 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.rad@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2020-02-11 23:59:43,833 NonParallelWorker INFO Framework.ContactsPage Send message.

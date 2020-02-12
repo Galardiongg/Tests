@@ -1,0 +1,1244 @@
+2020-02-12 00:00:05,759 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:00:15,571 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:00:15,574 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-12 00:00:15,583 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 00:00:17,069 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 00:00:19,376 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 00:00:20,189 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 00:00:20,781 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:00:29,931 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:00:29,932 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 00:00:30,051 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 00:00:39,222 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 00:00:40,996 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2020-02-12 00:00:41,670 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 00:00:42,137 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 00:00:42,301 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:00:51,504 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:00:51,505 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 00:00:51,506 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 00:00:52,774 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 00:00:54,691 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.rad@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2020-02-12 00:00:55,293 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 00:01:33,877 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:01:33,879 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:01:33,882 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2020-02-12 00:01:33,885 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:01:33,889 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:01:33,890 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:01:33,891 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:01:33,893 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:01:33,897 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:01:33,898 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:01:33,900 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUserWithIncorrectPassword unit test.
+2020-02-12 00:01:33,901 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:01:33,905 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:01:33,907 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:01:33,908 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2020-02-12 00:01:33,908 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 00:02:22,144 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:02:32,018 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:02:32,021 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-12 00:02:32,029 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 00:02:33,308 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 00:02:35,388 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 00:02:36,087 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 00:02:41,749 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:02:49,475 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:02:49,478 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 00:02:49,487 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 00:02:50,727 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 00:02:52,862 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.rad@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2020-02-12 00:02:53,240 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 00:39:57,679 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:40:07,607 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:40:07,610 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:40:07,732 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:40:09,075 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+Experience: 5
+StartCountry: Belarus
+EndCountry: Belarus
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 00:40:32,422 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:40:42,055 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:40:42,058 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:40:42,066 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:40:43,280 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+Experience: 5
+StartCountry: Belarus
+EndCountry: Belarus
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 00:44:21,256 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:44:30,906 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:44:30,909 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:44:30,918 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:44:32,708 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+Experience: 5
+StartCountry: Belarus
+EndCountry: Belarus
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 00:46:17,562 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:46:27,277 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:46:27,279 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:46:27,312 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:46:28,704 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+Experience: 5
+StartCountry: Belarus
+EndCountry: Belarus
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 00:47:53,878 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:48:03,554 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:48:03,557 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:48:03,564 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:48:04,946 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+Experience: 5
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 00:53:48,476 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:53:58,306 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:53:58,326 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:53:58,404 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:53:59,877 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+Experience: 5
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 00:54:49,072 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:54:58,931 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:54:58,934 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:54:59,049 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:55:00,406 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+Experience: 5
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 00:57:19,703 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:57:29,477 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:57:29,481 NonParallelWorker INFO Framework.Test.LoginTest Start ButtonCostTest unit test.
+2020-02-12 00:57:29,498 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:57:30,928 NonParallelWorker INFO Framework.Pages.LoginPage FindCost.
+2020-02-12 00:58:30,083 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 00:58:39,984 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 00:58:40,095 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 00:58:40,108 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 00:58:41,573 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+Experience: 5
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 01:00:02,746 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:00:12,550 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:00:12,553 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 01:00:12,671 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 01:00:14,402 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 01:01:08,802 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:01:18,800 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:01:18,802 NonParallelWorker INFO Framework.Test.LoginTest Start ButtonCostTest unit test.
+2020-02-12 01:01:18,811 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 01:01:19,997 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 01:02:02,123 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:02:11,814 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:02:11,817 NonParallelWorker INFO Framework.Test.LoginTest Start ButtonCostTest unit test.
+2020-02-12 01:02:11,826 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 01:02:13,035 NonParallelWorker INFO Framework.Pages.LoginPage FindCost.
+2020-02-12 01:02:18,827 NonParallelWorker INFO Framework.Pages.LoginPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 01:02:23,555 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:02:33,234 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:02:33,237 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 01:02:33,245 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 01:02:34,318 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 01:02:35,082 NonParallelWorker INFO Framework.Pages.LoginPage FindCost.
+2020-02-12 01:02:48,170 NonParallelWorker INFO Framework.Pages.LoginPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 01:04:19,055 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:04:28,733 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:04:28,736 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 01:04:28,745 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 01:04:29,987 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 01:13:39,786 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:13:49,510 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:13:49,515 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2020-02-12 01:13:49,522 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 01:13:50,875 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 01:13:51,774 NonParallelWorker INFO Framework.Pages.LoginPage FindCost.
+2020-02-12 01:14:51,893 NonParallelWorker INFO Framework.Pages.LoginPage Get message text: no error message
+2020-02-12 01:16:39,574 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:16:49,240 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:16:49,243 NonParallelWorker INFO Framework.Test.CostTest Start ButtonCostTest unit test.
+2020-02-12 01:16:49,254 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2020-02-12 01:16:50,689 NonParallelWorker INFO Framework.Pages.LoginPage FindCost.
+2020-02-12 01:16:55,735 NonParallelWorker INFO Framework.Pages.LoginPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 01:39:37,602 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:39:47,716 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:39:47,721 NonParallelWorker INFO Framework.Test.OrderTest Start UseFindField unit test.
+2020-02-12 01:39:47,744 NonParallelWorker INFO Framework.Pages.NewsPage Open order registration page
+2020-02-12 01:39:49,223 NonParallelWorker INFO Framework.Pages.NewsPage FindClick order.
+2020-02-12 01:40:43,893 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:40:53,734 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:40:53,737 NonParallelWorker INFO Framework.Test.OrderTest Start UseFindField unit test.
+2020-02-12 01:40:53,746 NonParallelWorker INFO Framework.Pages.NewsPage Open order registration page
+2020-02-12 01:40:54,954 NonParallelWorker INFO Framework.Pages.NewsPage FindClick order.
+2020-02-12 01:43:58,517 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:44:08,186 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:44:08,191 NonParallelWorker INFO Framework.Test.OrderTest Start UseFindField unit test.
+2020-02-12 01:44:08,299 NonParallelWorker INFO Framework.Pages.NewsPage Open order registration page
+2020-02-12 01:44:09,583 NonParallelWorker INFO Framework.Pages.NewsPage FindClick order.
+2020-02-12 01:45:56,251 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:46:06,159 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:46:06,173 NonParallelWorker INFO Framework.Test.OrderTest Start UseFindField unit test.
+2020-02-12 01:46:06,224 NonParallelWorker INFO Framework.Pages.NewsPage Open order registration page
+2020-02-12 01:46:07,784 NonParallelWorker INFO Framework.Pages.NewsPage FindClick order.
+2020-02-12 01:46:23,416 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:46:33,135 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:46:33,138 NonParallelWorker INFO Framework.Test.OrderTest Start UseFindField unit test.
+2020-02-12 01:46:33,147 NonParallelWorker INFO Framework.Pages.NewsPage Open order registration page
+2020-02-12 01:46:34,124 NonParallelWorker INFO Framework.Pages.NewsPage FindClick order.
+2020-02-12 01:48:09,064 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:48:18,957 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:48:18,966 NonParallelWorker INFO Framework.Test.OrderTest Start UseFindField unit test.
+2020-02-12 01:48:18,975 NonParallelWorker INFO Framework.Pages.NewsPage Open order registration page
+2020-02-12 01:48:20,439 NonParallelWorker INFO Framework.Pages.NewsPage FindClick order.
+2020-02-12 01:49:08,236 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 01:49:17,891 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 01:49:17,894 NonParallelWorker INFO Framework.Test.OrderTest Start UseFindField unit test.
+2020-02-12 01:49:17,905 NonParallelWorker INFO Framework.Pages.NewsPage Open order registration page
+2020-02-12 01:49:19,004 NonParallelWorker INFO Framework.Pages.NewsPage FindClick order.
+2020-02-12 02:10:32,513 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:10:42,602 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:10:42,609 NonParallelWorker INFO Framework.Test.CostTest Start ButtonCostTest unit test.
+2020-02-12 02:10:42,760 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:10:45,395 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:10:57,548 NonParallelWorker INFO Framework.Pages.CostPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 02:12:41,425 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:12:51,101 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:12:51,103 NonParallelWorker INFO Framework.Test.CostTest Start ButtonCostTest unit test.
+2020-02-12 02:12:51,118 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:12:52,314 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:13:07,181 NonParallelWorker INFO Framework.Pages.CostPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 02:13:50,244 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:13:59,911 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:13:59,913 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-12 02:13:59,920 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 02:14:01,199 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 02:14:03,099 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 02:14:03,934 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 02:15:13,373 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:15:23,040 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:15:23,043 NonParallelWorker INFO Framework.Test.CostTest Start ButtonCostTest unit test.
+2020-02-12 02:15:23,050 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:15:24,152 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:16:24,722 NonParallelWorker INFO Framework.Pages.CostPage Get message text: no error message
+2020-02-12 02:18:15,933 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:18:25,708 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:18:25,711 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-12 02:18:25,718 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 02:18:26,849 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 02:18:28,902 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 02:18:29,587 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 02:22:09,256 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:22:18,907 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:22:18,913 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 02:22:19,038 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 02:22:20,282 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 02:22:22,801 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298355422
+MessageText: Developer message
+
+2020-02-12 02:22:23,294 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 02:22:23,836 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 02:22:29,657 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:22:39,331 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:22:39,333 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 02:22:39,340 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 02:22:40,541 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 02:22:42,632 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 02:22:43,156 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 02:23:35,402 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:23:45,108 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:23:45,113 NonParallelWorker INFO Framework.Test.CostTest Start ButtonCostTest unit test.
+2020-02-12 02:23:45,121 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:23:46,366 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:23:55,700 NonParallelWorker INFO Framework.Pages.CostPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 02:54:33,085 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:54:42,851 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:54:42,854 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 02:54:42,865 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:54:44,222 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 02:54:45,418 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:54:55,802 NonParallelWorker INFO Framework.Pages.CostPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 02:55:46,261 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:55:55,918 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:55:55,921 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 02:55:55,932 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:55:57,218 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 02:55:58,063 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:56:51,920 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:57:01,569 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:57:01,572 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 02:57:01,681 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:57:03,024 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 02:57:03,935 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:57:04,521 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 02:57:30,883 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:57:40,590 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:57:40,596 NonParallelWorker INFO Framework.Test.CostTest Start ButtonCostTest unit test.
+2020-02-12 02:57:40,604 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:57:42,052 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:57:43,133 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 02:59:29,463 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:59:39,113 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:59:39,115 NonParallelWorker INFO Framework.Test.CostTest Start ButtonCostTest unit test.
+2020-02-12 02:59:39,218 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:59:40,390 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:59:41,387 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 02:59:46,327 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 02:59:56,065 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 02:59:56,068 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 02:59:56,077 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 02:59:57,289 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 02:59:58,036 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 02:59:58,553 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 03:00:06,418 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:00:16,052 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:00:16,054 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 03:00:16,063 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 03:00:17,123 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 03:00:19,315 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:00:19,739 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 03:01:47,770 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:01:57,452 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:01:57,455 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 03:01:57,504 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 03:01:58,891 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 03:02:00,985 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:02:01,457 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 03:02:02,156 NonParallelWorker INFO Framework.ContactsPage Get message text: Подтвердите, что вы не робот
+2020-02-12 03:02:07,847 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:02:17,580 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:02:17,584 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 03:02:17,617 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 03:02:19,051 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 03:02:20,271 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298355422
+MessageText: Developer message
+
+2020-02-12 03:02:21,303 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 03:03:25,012 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:03:34,688 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:03:34,693 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 03:03:34,724 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 03:03:36,052 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 03:03:38,167 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298355422
+MessageText: Developer message
+
+2020-02-12 03:03:38,686 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 03:03:38,816 NonParallelWorker INFO Framework.ContactsPage Get message text: 
+2020-02-12 03:03:49,521 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:03:59,172 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:03:59,175 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 03:03:59,185 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 03:04:00,347 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 03:04:02,367 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:04:02,854 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 03:04:02,991 NonParallelWorker INFO Framework.ContactsPage Get message text: 
+2020-02-12 03:04:49,712 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:04:59,443 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:04:59,449 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 03:04:59,475 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 03:05:00,741 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 03:05:02,677 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298355422
+MessageText: Developer message
+
+2020-02-12 03:05:03,137 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 03:05:03,249 NonParallelWorker INFO Framework.ContactsPage Get message text: 
+2020-02-12 03:05:22,373 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:05:32,060 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:05:32,064 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 03:05:32,091 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 03:05:33,256 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 03:05:35,237 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298355422
+MessageText: Developer message
+
+2020-02-12 03:05:35,742 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 03:05:36,262 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 03:07:29,172 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:07:38,791 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:07:38,794 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 03:07:38,806 NonParallelWorker INFO Framework.StartPage Open strat page.
+2020-02-12 03:07:39,802 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2020-02-12 03:07:41,915 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:07:42,339 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 03:07:42,868 NonParallelWorker INFO Framework.ContactsPage Get message text: Подтвердите, что вы не робот
+2020-02-12 03:07:47,927 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:07:57,518 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:07:57,521 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 03:07:57,528 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 03:07:58,792 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:07:59,637 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 03:08:02,163 NonParallelWorker INFO Framework.Pages.CostPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 03:09:25,695 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:09:35,279 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:09:35,284 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 03:09:35,291 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 03:09:36,636 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:09:37,446 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 03:09:38,016 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Подтвердите, что вы не робот
+2020-02-12 03:09:49,258 NonParallelWorker INFO Framework.Pages.CostPage Для не являющегося статическим метода требуется указать конечный объект.
+2020-02-12 03:11:42,665 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:11:52,343 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:11:52,346 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 03:11:52,355 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 03:11:53,577 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:11:54,657 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 03:11:55,175 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Подтвердите, что вы не робот
+2020-02-12 03:12:55,187 NonParallelWorker INFO Framework.Pages.CostPage Get message text: no error message
+2020-02-12 03:13:15,178 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:13:25,042 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:13:25,045 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 03:13:25,053 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 03:13:26,485 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:13:27,243 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 03:13:27,746 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Подтвердите, что вы не робот
+2020-02-12 03:22:13,673 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:22:23,538 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:22:23,542 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 03:22:23,550 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 03:22:24,907 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:23:18,312 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 03:23:28,048 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 03:23:28,050 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 03:23:28,059 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 03:23:29,237 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 03:23:30,113 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 03:23:30,732 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:02:02,317 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:02:12,246 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:02:22,015 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:02:22,018 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-12 04:02:22,100 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 04:02:23,565 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 04:02:25,617 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 04:02:26,432 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 04:02:26,637 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:02:35,782 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:02:35,783 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 04:02:35,929 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 04:02:36,898 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 04:02:38,671 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 
+MessageText: Developer message
+
+2020-02-12 04:02:39,150 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 04:02:39,616 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 04:02:39,785 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:02:48,897 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:02:48,898 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 04:02:48,899 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 04:02:49,948 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 04:02:51,689 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:02:52,101 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 04:02:52,558 NonParallelWorker INFO Framework.ContactsPage Get message text: Подтвердите, что вы не робот
+2020-02-12 04:02:52,735 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:03:01,890 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:03:01,891 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 04:03:01,892 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:03:02,964 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:03:03,737 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:03:04,213 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Подтвердите, что вы не робот
+2020-02-12 04:03:04,355 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:03:13,503 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:03:13,506 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 04:03:13,507 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:03:14,616 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:03:15,357 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:03:15,820 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:03:15,986 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:03:25,081 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:03:25,083 NonParallelWorker INFO Framework.Test.CostTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 04:03:25,084 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:03:26,117 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:03:26,873 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:03:27,333 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:03:27,484 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:03:36,648 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:03:36,649 NonParallelWorker INFO Framework.Test.CostTest Start ButtonCostTest unit test.
+2020-02-12 04:03:36,650 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:03:37,714 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:03:38,455 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:03:38,602 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:03:47,754 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:03:47,755 NonParallelWorker INFO Framework.Test.OrderTest Start UseFindField unit test.
+2020-02-12 04:03:47,757 NonParallelWorker INFO Framework.Pages.NewsPage Open order registration page
+2020-02-12 04:03:48,716 NonParallelWorker INFO Framework.Pages.NewsPage FindClick order.
+2020-02-12 04:04:31,567 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:05:14,017 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:05:23,653 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:05:23,657 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 04:05:23,666 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:05:24,907 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:05:25,692 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:05:26,207 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Подтвердите, что вы не робот
+2020-02-12 04:24:33,908 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:24:43,575 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:24:43,579 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 04:24:43,691 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:25:30,042 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:25:39,874 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:25:39,877 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 04:25:39,886 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:25:41,232 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:25:42,055 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:25:42,560 NonParallelWorker INFO Framework.SeaPage Get message text: Подтвердите, что вы не робот
+2020-02-12 04:25:49,029 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:25:58,824 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:25:58,826 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 04:25:58,833 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:25:59,949 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:26:00,763 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:26:01,376 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:26:05,651 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:26:15,312 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:26:15,315 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 04:26:15,324 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:26:16,414 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:26:17,188 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:26:17,753 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:27:06,338 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:27:15,985 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:27:15,990 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 04:27:15,997 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:27:17,186 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: incorrecttest.epam@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:27:17,965 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:28:33,724 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:28:43,560 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:28:43,563 NonParallelWorker INFO Framework.Test.CostSeaTest Start ButtonCostTest unit test.
+2020-02-12 04:28:43,570 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:28:44,573 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:28:45,442 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:29:41,977 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:29:51,645 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:29:51,648 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-12 04:29:51,658 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 04:29:52,726 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 04:29:54,722 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 04:29:55,355 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 04:29:55,559 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:30:04,723 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:30:04,724 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 04:30:04,749 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 04:30:05,848 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 04:30:07,671 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 
+MessageText: Developer message
+
+2020-02-12 04:30:08,156 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 04:30:08,681 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 04:30:08,860 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:30:18,089 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:30:18,091 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 04:30:18,091 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 04:30:19,094 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 04:30:20,827 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:30:21,327 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 04:30:21,849 NonParallelWorker INFO Framework.ContactsPage Get message text: Подтвердите, что вы не робот
+2020-02-12 04:30:22,027 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:30:31,206 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:30:31,208 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 04:30:31,210 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:30:32,652 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:30:33,707 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:30:34,220 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:30:34,353 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:30:43,454 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:30:43,457 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 04:30:43,458 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:30:45,115 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:30:45,820 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:30:46,269 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Подтвердите, что вы не робот
+2020-02-12 04:30:46,435 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:30:55,575 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:30:55,579 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 04:30:55,580 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:30:56,532 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:30:57,310 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:30:57,777 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:30:57,944 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:31:07,100 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:31:07,101 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 04:31:07,102 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:31:08,152 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:31:08,881 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:31:09,346 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:31:09,497 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:31:18,645 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:31:18,646 NonParallelWorker INFO Framework.Test.CostAviaTest Start ButtonCostTest unit test.
+2020-02-12 04:31:18,647 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 04:31:19,745 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 04:31:20,465 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:31:20,644 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:31:29,740 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:31:29,741 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 04:31:29,742 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:31:30,637 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:31:31,385 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:31:31,898 NonParallelWorker INFO Framework.SeaPage Get message text: Подтвердите, что вы не робот
+2020-02-12 04:31:32,048 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:31:41,202 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:31:41,204 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 04:31:41,205 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:31:42,198 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:31:42,926 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:31:43,445 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:31:43,603 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:31:52,758 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:31:52,759 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 04:31:52,760 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:31:53,879 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 04:31:54,637 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:31:55,105 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 04:31:55,256 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 04:32:04,407 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 04:32:04,409 NonParallelWorker INFO Framework.Test.CostSeaTest Start ButtonCostTest unit test.
+2020-02-12 04:32:04,410 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 04:32:05,286 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 04:32:06,045 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 05:04:38,439 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:04:48,707 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:04:48,729 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2020-02-12 05:04:48,749 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 05:04:50,311 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 05:04:53,144 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 05:04:54,014 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 05:04:54,354 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:05:03,629 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:05:03,631 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2020-02-12 05:05:03,666 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 05:05:04,911 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 05:05:07,561 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Namr:DeveloperName
+Email: Developer EMail
+PNumber: 375298355422
+MessageText: Developer message
+
+2020-02-12 05:05:08,085 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 05:05:08,722 NonParallelWorker INFO Framework.ContactsPage Get message text: Не все обязательные поля были заполнены, либо поле E-mail заполнено некорректно.
+2020-02-12 05:05:09,703 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:05:18,972 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:05:18,975 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start ValidEmaildAndName unit test.
+2020-02-12 05:05:18,976 NonParallelWorker INFO Framework.AviaPage Open strat page.
+2020-02-12 05:05:20,444 NonParallelWorker INFO Framework.AviaPage Go to contacts page
+2020-02-12 05:05:22,698 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 05:05:23,133 NonParallelWorker INFO Framework.ContactsPage Send message.
+2020-02-12 05:05:23,679 NonParallelWorker INFO Framework.ContactsPage Get message text: Подтвердите, что вы не робот
+2020-02-12 05:05:23,923 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:05:33,064 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:05:33,065 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 05:05:33,067 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 05:05:34,302 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 05:05:35,135 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 05:05:35,599 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 05:05:35,799 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:05:44,960 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:05:44,961 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 05:05:44,962 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 05:05:46,147 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 05:05:46,965 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 05:05:47,487 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Подтвердите, что вы не робот
+2020-02-12 05:05:47,681 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:05:56,822 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:05:56,824 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 05:05:56,827 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 05:05:58,166 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 05:05:59,549 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 05:06:00,083 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 05:06:00,266 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:06:09,480 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:06:09,481 NonParallelWorker INFO Framework.Test.CostAviaTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 05:06:09,482 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 05:06:10,857 NonParallelWorker INFO Framework.Pages.CostPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 05:06:11,610 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 05:06:12,079 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 05:06:12,199 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:06:21,360 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:06:21,361 NonParallelWorker INFO Framework.Test.CostAviaTest Start ButtonCostTest unit test.
+2020-02-12 05:06:21,362 NonParallelWorker INFO Framework.Pages.CostPage Open login page.
+2020-02-12 05:06:22,525 NonParallelWorker INFO Framework.Pages.CostPage FindCost.
+2020-02-12 05:06:23,323 NonParallelWorker INFO Framework.Pages.CostPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 05:06:23,475 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:06:32,631 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:06:32,634 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostAsRegistratedUser unit test.
+2020-02-12 05:06:32,637 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 05:06:33,946 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 05:06:34,820 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 05:06:35,304 NonParallelWorker INFO Framework.SeaPage Get message text: Подтвердите, что вы не робот
+2020-02-12 05:06:35,449 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:06:44,594 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:06:44,595 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostIncorrectEmail unit test.
+2020-02-12 05:06:44,596 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 05:06:45,674 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: incorrecttestepam@mailru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: 375298355422
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 05:06:46,623 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 05:06:47,119 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 05:06:47,258 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:06:56,462 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:06:56,464 NonParallelWorker INFO Framework.Test.CostSeaTest Start CreateFieldCostIncorrectPhone unit test.
+2020-02-12 05:06:56,465 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 05:06:57,561 NonParallelWorker INFO Framework.SeaPage Fill in fields:
+User data: 
+EMail: test.epam.eg@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PhoneNumber: incorrectt1
+StartCountry: Belarus
+EndCountry: Moscow
+Weight: 1000
+Size: 20x20x20
+
+2020-02-12 05:06:58,393 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 05:06:58,915 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".
+2020-02-12 05:06:59,378 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2020-02-12 05:07:08,519 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2020-02-12 05:07:08,521 NonParallelWorker INFO Framework.Test.CostSeaTest Start ButtonCostTest unit test.
+2020-02-12 05:07:08,524 NonParallelWorker INFO Framework.SeaPage Open strat page.
+2020-02-12 05:07:09,668 NonParallelWorker INFO Framework.SeaPage FindCost.
+2020-02-12 05:07:10,532 NonParallelWorker INFO Framework.SeaPage Get message text: Возникли ошибки заполнения полей. Поле Email заполнено некорректно, либо не заполнены обязательные поля "Телефон".

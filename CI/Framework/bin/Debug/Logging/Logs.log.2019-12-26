@@ -1,0 +1,135 @@
+2019-12-26 14:39:25,789 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 14:44:20,966 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 14:47:35,142 15 WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 14:49:00,298 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 14:54:30,123 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 14:54:50,857 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 14:54:50,884 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2019-12-26 14:54:51,079 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2019-12-26 14:55:00,868 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: incorrecttest.epam@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2019-12-26 14:55:02,920 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2019-12-26 14:55:07,498 NonParallelWorker INFO Framework.Pages.LoginPage Get message text: Неверный логин или пароль.
+2019-12-26 14:58:09,073 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 14:58:20,907 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 14:58:20,924 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2019-12-26 14:58:20,959 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2019-12-26 15:09:39,122 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 15:09:53,898 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 15:09:53,915 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2019-12-26 15:09:53,963 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2019-12-26 15:10:43,234 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.rad@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2019-12-26 15:10:44,882 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2019-12-26 15:58:36,812 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 15:59:19,115 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 15:59:47,191 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 15:59:47,208 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2019-12-26 15:59:47,253 NonParallelWorker INFO Framework.StartPage Open strat page.
+2019-12-26 16:01:55,763 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:02:20,842 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:02:20,857 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2019-12-26 16:02:20,902 NonParallelWorker INFO Framework.StartPage Open strat page.
+2019-12-26 16:02:42,779 NonParallelWorker INFO Framework.StartPage Submit filter (ClickSubmitButton)
+2019-12-26 16:39:15,666 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:39:30,277 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:39:30,306 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendBlankEMail unit test.
+2019-12-26 16:39:30,450 NonParallelWorker INFO Framework.StartPage Open strat page.
+2019-12-26 16:39:43,814 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2019-12-26 16:39:51,034 NonParallelWorker INFO Framework.ContactsPage Send message.
+2019-12-26 16:39:56,334 NonParallelWorker INFO Framework.ContactsPage Get message text: Поле 'E-mail' должно быть заполнено!
+Поле 'Тема' должно быть заполнено!
+Поле 'Ваше сообщение' должно быть заполнено!
+Подтвердите что вы не робот
+2019-12-26 16:39:57,330 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:40:07,558 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:40:07,566 NonParallelWorker INFO Framework.Test.ConsultationFormTest Start SendEMailIncorrectEMailAdr unit test.
+2019-12-26 16:40:07,688 NonParallelWorker INFO Framework.StartPage Open strat page.
+2019-12-26 16:40:22,388 NonParallelWorker INFO Framework.StartPage Go to contacts page
+2019-12-26 16:40:28,982 NonParallelWorker INFO Framework.ContactsPage Fill in fields by values
+Message data:
+Topic: Developer topic
+Email: Developer EMail
+PNumber: 375298947333
+MessageText: Developer message
+
+2019-12-26 16:40:31,113 NonParallelWorker INFO Framework.ContactsPage Send message.
+2019-12-26 16:40:35,793 NonParallelWorker INFO Framework.ContactsPage Get message text: Подтвердите что вы не робот
+2019-12-26 16:40:37,397 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:40:47,225 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:40:47,233 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsNonRegistratedUser unit test.
+2019-12-26 16:40:47,246 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2019-12-26 16:40:57,902 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: incorrecttest.epam@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2019-12-26 16:40:59,001 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2019-12-26 16:41:04,503 NonParallelWorker INFO Framework.Pages.LoginPage Get message text: Неверный логин или пароль.
+2019-12-26 16:41:05,034 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:41:14,935 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:41:14,941 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUser unit test.
+2019-12-26 16:41:14,946 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2019-12-26 16:41:22,856 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: test.epam.rad@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2019-12-26 16:41:24,531 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2019-12-26 16:42:28,244 NonParallelWorker INFO Framework.Pages.LoginPage Для не являющегося статическим метода требуется указать конечный объект.
+2019-12-26 16:42:29,264 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:42:39,489 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:42:39,501 NonParallelWorker INFO Framework.Test.LoginTest Start LoginAsRegistratedUserWithIncorrectPassword unit test.
+2019-12-26 16:42:39,508 NonParallelWorker INFO Framework.Pages.LoginPage Open login page.
+2019-12-26 16:43:11,014 NonParallelWorker INFO Framework.Pages.LoginPage Fill in fields:
+User data: 
+EMail: incorrecttest.epam@mail.ru
+Password: Pa$$w0rd
+Name: TestUser
+PNumber: 375298947333
+Experience: 5
+
+2019-12-26 16:43:12,756 NonParallelWorker INFO Framework.Pages.LoginPage Login.
+2019-12-26 16:43:18,143 NonParallelWorker INFO Framework.Pages.LoginPage Get message text: Неверный логин или пароль.
+2019-12-26 16:43:18,885 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:43:28,717 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:43:28,735 NonParallelWorker INFO Framework.Test.OrderTest Start FindAllOrdersPositiveTest unit test.
+2019-12-26 16:43:28,746 NonParallelWorker INFO Framework.StartPage Open strat page.
+2019-12-26 16:43:46,482 NonParallelWorker INFO Framework.StartPage Submit filter (ClickSubmitButton)
+2019-12-26 16:43:59,389 NonParallelWorker INFO Framework.Pages.OrdersListPage Open orders list page
+2019-12-26 16:43:59,394 NonParallelWorker INFO Framework.Pages.OrdersListPage Reset filters
+2019-12-26 16:44:02,334 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:44:12,307 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:44:12,315 NonParallelWorker INFO Framework.Test.OrderTest Start SendOrderPositiveTest unit test.
+2019-12-26 16:44:12,325 NonParallelWorker INFO Framework.StartPage Open strat page.
+2019-12-26 16:44:33,997 NonParallelWorker INFO Framework.StartPage Submit filter (ClickSubmitButton)
+2019-12-26 16:44:34,122 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:44:34,162 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:44:34,174 NonParallelWorker INFO Framework.Test.OrderTest Start SendOrderWithZeroExperience unit test.
+2019-12-26 16:44:34,186 NonParallelWorker INFO Framework.Pages.OrderRegistrationPage Open order registration page
+2019-12-26 16:44:34,232 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:44:34,257 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:44:34,261 NonParallelWorker INFO Framework.Test.OrderTest Start SimilarStartDateAndEndDate unit test.
+2019-12-26 16:44:34,266 NonParallelWorker INFO Framework.StartPage Open strat page.
+2019-12-26 16:44:34,286 NonParallelWorker WARN Framework.Test.CommonConditions Start driver initializing.
+2019-12-26 16:44:34,292 NonParallelWorker INFO Framework.Test.CommonConditions Driver initialized.
+2019-12-26 16:44:34,296 NonParallelWorker INFO Framework.Test.OrderTest Start StartDateLeaseEndDate unit test.
+2019-12-26 16:44:34,301 NonParallelWorker INFO Framework.StartPage Open strat page.
